@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/SimpleApps/Images/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
         <entry key="..\:/SimpleApps/Images/app/src/main/res/layout/activity_image_full_screen.xml" value="0.20833333333333334" />
         <entry key="..\:/SimpleApps/Images/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/SimpleApps/Images/app/src/main/res/layout/image_item_view.xml" value="0.23307291666666666" />

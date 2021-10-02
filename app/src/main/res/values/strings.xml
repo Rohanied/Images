@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Images</string>
+    <string name="search_images_here">Search Images here</string>
 </resources>

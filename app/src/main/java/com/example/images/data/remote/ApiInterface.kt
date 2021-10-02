@@ -13,7 +13,8 @@ interface ApiInterface {
     fun getImages(
         @Query("key") key: String,
         @Query("image_type") imageType: String,
-        @Query("orientation") orientation: String
+        @Query("orientation") orientation: String,
+        @Query("q") q : String
     ): Call<Response>
 
     companion object {
